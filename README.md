@@ -102,7 +102,7 @@ sudo pacman -S csfml
 ### Build
 
 ```bash
-git clone https://github.com/your-username/my-hunter.git
+git clone https://github.com/George1014/My_hunter.git
 cd my-hunter
 make
 ```
